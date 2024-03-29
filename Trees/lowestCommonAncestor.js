@@ -36,9 +36,6 @@ function lowestCommonAncestor (tree, p, q) {
     return left || right
 }
 
-
-// console.log(lowestCommonAncestor(1))
-
 // // Sample input:
 //         3 
 //       /   \
