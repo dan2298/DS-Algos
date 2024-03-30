@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
-// 921. Minimum Add to Make Parentheses Valid
 
 // A parentheses string is valid if and only if:
 
